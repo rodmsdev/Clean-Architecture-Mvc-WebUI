@@ -1,0 +1,27 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\Rodolfo Martins\.nuget\packages\fluentassertions\6.10.0\lib\net6.0\FluentAssertions.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3770e1da_002D002d_002D4898_002Da98b_002Da8d4d381ecbe/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CreateCategory_WithValidParameters_ResultObjectValidState" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F6D16B6A-1B9B-432C-BE88-E3D8C99CA843::net6.0::CleanArchMvc.Domain.Tests.CategoryUnitTest1.CreateCategory_WithValidParameters_ResultObjectValidState&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F6D16B6A-1B9B-432C-BE88-E3D8C99CA843::net6.0::CleanArchMvc.Domain.Tests.CategoryUnitTest1.CreateCategory_NegativeIdValue_DomainExceptionInvalidId&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F6D16B6A-1B9B-432C-BE88-E3D8C99CA843::net6.0::CleanArchMvc.Domain.Tests.CategoryUnitTest1.CreateCategory_ShortNameValue_DomainExceptionShortName&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F6D16B6A-1B9B-432C-BE88-E3D8C99CA843::net6.0::CleanArchMvc.Domain.Tests.CategoryUnitTest1.CreateCategory_MissingNameValue_DomainExceptionRequiredName&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F6D16B6A-1B9B-432C-BE88-E3D8C99CA843::net6.0::CleanArchMvc.Domain.Tests.CategoryUnitTest1.CreateCategory_WithNullNameValue_DomainExceptionInvalidName&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F6D16B6A-1B9B-432C-BE88-E3D8C99CA843::net6.0::CleanArchMvc.Domain.Tests.ProductUnitTest1.CreateProduct_WithValidParameters_ResultObjectValidState&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F6D16B6A-1B9B-432C-BE88-E3D8C99CA843::net6.0::CleanArchMvc.Domain.Tests.ProductUnitTest1.CreateProduct_NegativeIdValue_DomainExceptionInvalidId&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F6D16B6A-1B9B-432C-BE88-E3D8C99CA843::net6.0::CleanArchMvc.Domain.Tests.ProductUnitTest1.CreateProduct_LongImageValue_DomainExceptionLongImageName&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F6D16B6A-1B9B-432C-BE88-E3D8C99CA843::net6.0::CleanArchMvc.Domain.Tests.ProductUnitTest1.CreateProduct_ShortNameValue_DomainExceptionShortName&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F6D16B6A-1B9B-432C-BE88-E3D8C99CA843::net6.0::CleanArchMvc.Domain.Tests.ProductUnitTest1.CreateProduct_WithNullImageValue_NoDomainException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F6D16B6A-1B9B-432C-BE88-E3D8C99CA843::net6.0::CleanArchMvc.Domain.Tests.ProductUnitTest1.CreateProduct_WithEmptyImageValue_NoDomainException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F6D16B6A-1B9B-432C-BE88-E3D8C99CA843::net6.0::CleanArchMvc.Domain.Tests.ProductUnitTest1.CreateProduct_InvalidStockValue_DomainExceptionNegativeValue&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F6D16B6A-1B9B-432C-BE88-E3D8C99CA843::net6.0::CleanArchMvc.Domain.Tests.ProductUnitTest1.CreateProduct_InvalidPriceValue_DomainException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F6D16B6A-1B9B-432C-BE88-E3D8C99CA843::net6.0::CleanArchMvc.Domain.Tests.ProductUnitTest1.CreateProduct_WithNullImageValue_NoNullReferenceException&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5d33dfae_002Da275_002D4d68_002D9c33_002D39df1e0cbd04/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateCategory_WithValidParameters_ResultObjectValidState #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F6D16B6A-1B9B-432C-BE88-E3D8C99CA843::net6.0::CleanArchMvc.Domain.Tests.CategoryUnitTest1.CreateCategory_WithValidParameters_ResultObjectValidState&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
